@@ -10,6 +10,5 @@ Modify speed by changed robot-> speed in the setRobot function in animation.c
 
 Compile :
 gcc main.c background.c animation.c DrawApp/graphics.c  
-Change graphics.c with your path. Change the two headers at the directives in animation.c and background.c with the path. 
 Run:
 ./a.exe| java -jar DrawApp/drawapp-4.0.jar
